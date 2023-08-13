@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Faizan82001
-- 👀 I’m interested in Python development and Flutter development
+- 👀 I’m interested in Python development and Data Science
 - 🌱 Studied at LD College of Engineering in Ahmedabad, Gujarat, India
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me faizanigigani@gmail.com
